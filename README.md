@@ -1,6 +1,6 @@
 # Counter
 
-Un contador básico hecho con javascript y una interfaz amigable con el usuario
+El proyecto consiste en desarrollar un contador en JavaScript utilizando addEventListener. Tendrá 3 botones: uno para avanzar en números positivos, otro para retroceder y uno para restablecer el contador a cero.
 
 ## Capturas de pantalla
 
